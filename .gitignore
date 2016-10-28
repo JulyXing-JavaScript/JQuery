@@ -1,0 +1,12 @@
+*.*
+
+!.gitignore
+!bin/
+!examples/
+!include/
+!lib/
+!node_modules/
+!share/
+!var/
+!gulpfile.js
+!package.json
